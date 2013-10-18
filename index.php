@@ -52,7 +52,7 @@
 			
 
 		}
-	echo '<h1>Calcula el resultado de ecuaciones cuadradas del tipo:<br></h1>';
+	echo '<h1>Calcula el resultado de ecuaciones de segundo grado:<br></h1>';
 	echo '<img src="2grado.gif">';
 	$nuevoForm=new Formulario("gracias.php", "Calcular");
 	$nuevoForm->insertarCampos("T&eacute;rmino A", "a");
